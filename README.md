@@ -37,21 +37,21 @@ In Visual Studio Code, press F5
 
 
 ## Project Structure
-src/main/java
-Launcher.java: Entry point for the application. Sets up the GUI and initializes the WindowManager.
-WindowManager.java: Manages the OpenGL context, handles input, and renders shapes.
-Shapes.java: Contains methods for rendering different 3D shapes.
-InputHandler.java: Handles user input for interacting with the 3D scene.
+- Launcher.java: Entry point for the application. Sets up the GUI and initializes the WindowManager.
+- WindowManager.java: Manages the OpenGL context, handles input, and renders shapes.
+- Shapes.java: Contains methods for rendering different 3D shapes.
+- InputHandler.java: Handles user input for interacting with the 3D scene.
 
 
 ## Keyboard Controls
-Move Object:
-W: Move up
-S: Move down
-A: Move left
-D: Move right
-Rotate Object:
-Arrow Up: Rotate upwards
-Arrow Down: Rotate downwards
-Arrow Left: Rotate left
-Arrow Right: Rotate right
+- Move Object:
+- W: Move up
+- S: Move down
+- A: Move left
+- D: Move right
+
+## Rotate Object:
+- Arrow Up: Rotate upwards
+- Arrow Down: Rotate downwards
+- Arrow Left: Rotate left
+- Arrow Right: Rotate right
