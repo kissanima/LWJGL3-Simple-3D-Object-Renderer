@@ -41,6 +41,7 @@ public class InputHandler {
                         break;
                     case GLFW_KEY_LEFT:
                         rotationY -= 2.5f;
+                        System.out.println(getTranslationX());
                         break;
                     case GLFW_KEY_RIGHT:
                         rotationY += 2.5f;
