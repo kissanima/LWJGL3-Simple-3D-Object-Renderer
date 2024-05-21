@@ -13,6 +13,7 @@ This project is a simple 3D object renderer using LWJGL (Lightweight Java Game L
 ## Prerequisites
 
 - Java Development Kit (JDK) 11 or higher
+-LWJGL3
 - Visual Studio Code
   - Extensions:
     - Language Support for Java(TM) by Red Hat
@@ -26,7 +27,7 @@ This project is a simple 3D object renderer using LWJGL (Lightweight Java Game L
 ```bash
 git clone https://github.com/your-username/simple-3d-object-renderer.git
 cd simple-3d-object-renderer
-
+```
 
 ## Open the Project in Visual Studio Code
 Open Visual Studio Code.
