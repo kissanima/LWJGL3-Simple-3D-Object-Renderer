@@ -26,3 +26,32 @@ This project is a simple 3D object renderer using LWJGL (Lightweight Java Game L
 ```bash
 git clone https://github.com/your-username/simple-3d-object-renderer.git
 cd simple-3d-object-renderer
+
+
+## Open the Project in Visual Studio Code
+Open Visual Studio Code.
+Click on File -> Open Folder... and select the simple-3d-object-renderer folder.
+
+## Running the Application
+In Visual Studio Code, press F5
+
+
+## Project Structure
+src/main/java
+Launcher.java: Entry point for the application. Sets up the GUI and initializes the WindowManager.
+WindowManager.java: Manages the OpenGL context, handles input, and renders shapes.
+Shapes.java: Contains methods for rendering different 3D shapes.
+InputHandler.java: Handles user input for interacting with the 3D scene.
+
+
+## Keyboard Controls
+Move Object:
+W: Move up
+S: Move down
+A: Move left
+D: Move right
+Rotate Object:
+Arrow Up: Rotate upwards
+Arrow Down: Rotate downwards
+Arrow Left: Rotate left
+Arrow Right: Rotate right
