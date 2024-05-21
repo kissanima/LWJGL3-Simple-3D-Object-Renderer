@@ -6,7 +6,6 @@ This project is a simple 3D object renderer using LWJGL (Lightweight Java Game L
 
 - Render 3D shapes: Cube, Sphere, Pyramid
 - Basic lighting for realistic shading
-- Texture mapping for detailed surfaces
 - Interactive control panel for switching shapes
 - Keyboard controls for moving and rotating objects
 
