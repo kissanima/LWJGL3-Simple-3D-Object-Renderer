@@ -15,9 +15,7 @@ This project is a simple 3D object renderer using LWJGL (Lightweight Java Game L
 -LWJGL3
 - Visual Studio Code
   - Extensions:
-    - Language Support for Java(TM) by Red Hat
-    - Debugger for Java
-    - Maven for Java
+    - Java Extension Pack
 
 ## Getting Started
 
@@ -31,6 +29,10 @@ cd simple-3d-object-renderer
 ## Open the Project in Visual Studio Code
 Open Visual Studio Code.
 Click on File -> Open Folder... and select the simple-3d-object-renderer folder.
+
+## Import Libraries
+Ensure that all the required libraries from the lib folder are added to the project
+
 
 ## Running the Application
 In Visual Studio Code, press F5
